@@ -1,6 +1,6 @@
 # Hi there, I'm Tomer! 👋 &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  [Portfolio](https://portfolio-tomerssh.vercel.app)
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=tomerssh&show_icons=true&theme=nord" />
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=tomerssh&show_icons=true&theme=graywhite" />
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomerssh&layout=compact" />
 
