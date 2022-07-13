@@ -1,8 +1,18 @@
 # Hi, I'm Tomer 👋 &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;[Portfolio](https://portfolio-tomerssh.vercel.app)
 
+## 📊 My Github Stats
+
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=tomerssh&show_icons=true&theme=default" />
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomerssh&layout=compact" />
+
+
+## Connect with me: [Email](mailto:tomer1998s@gmail.com)
+<p align="left">
+
+<a href = "https://www.linkedin.com/in/tomer-shoshani/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>  
+
+</p>
 
 <!--
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tomerssh&show_icons=true&theme=nord)
