@@ -2,9 +2,9 @@
 
 ## 📊 My Github Stats
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=tomerssh&show_icons=true&theme=default" />
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=tomerssh&show_icons=true&theme=dark" />
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomerssh&layout=compact" />
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomerssh&layout=compact&theme=dark" />
 
 
 ## Connect with me: [Email](mailto:tomer1998s@gmail.com)
